@@ -1,0 +1,43 @@
+[{
+		"key": "1",
+		"image": "https://static01.nyt.com/images/2021/10/01/fashion/00ML-OCTOBER-TLS-2/00ML-OCTOBER-TLS-2-mediumThreeByTwo252-v2.jpg?quality=100&auto=webp",
+		"title": "Tiny Love Stories: ‘Who Has Time to Feel All Day?’",
+		"description": "Modern Love in miniature, featuring reader-submitted stories of no more than 100 words.",
+		"date": "Oct. 19, 2021"
+	},
+{
+		"key": "2",
+		"image": "https://static01.nyt.com/images/2021/08/23/lens/00xp-sirens/00xp-sirens-mediumThreeByTwo252.jpg?quality=100&auto=webp",
+		"title": "Sirens: Loud, Ineffective and Risky, Experts Say",
+		"description": "The overuse of lights and sirens, combined with speeding, pose heightened risks to emergency responders and civilians. One expert called it a public health dilemma.",
+		"date": "Oct. 19, 2021"
+	},
+{
+		"key": "3",
+		"image": "https://static01.nyt.com/images/2021/10/20/multimedia/20sp-fitness-inyt1/20sp-fitness-inyt1-mediumThreeByTwo252.jpg?quality=100&auto=webp",
+		"title": "The Transformation of the Fitness Industry",
+		"description": "Workouts, like work itself, can be done at home, and clubs are learning how to lure customers back.",
+		"date": "Oct. 19, 2021"
+	},
+{
+		"key": "4",
+		"image": "https://static01.nyt.com/images/2021/10/18/us/politics/18colin-powell-briefing-covid-sub/merlin_196240815_5d3a5d3d-a208-4c5c-be27-0aca794bd999-mediumThreeByTwo252.jpg?quality=100&auto=webp",
+		"title": "What Scientists Know About the Risk of Breakthrough Covid Deaths",
+		"description": "Deaths among people who have been fully vaccinated remain rare, but older adults and those with compromised immune systems are at much higher risk.",
+		"date": "Oct. 18, 2021"
+	},
+{
+		"key": "5",
+		"image": "https://static01.nyt.com/images/2021/10/19/well/18sci-bakalar-ldl/18sci-bakalar-ldl-mediumThreeByTwo252.jpg?quality=100&auto=webp",
+		"title": "How Lifelong Cholesterol Levels Can Harm or Help Your Heart",
+		"description": "The longer you have high levels of “bad” LDL cholesterol, the greater your risk of a heart attack.",
+		"date": "Oct. 18, 2021"
+	},
+{
+		"key": "6",
+		"image": "https://static01.nyt.com/images/2021/10/14/well/14Well-NL1/14Well-NL1-mediumThreeByTwo252.jpg?quality=100&auto=webp",
+		"title": "What Does the Aspirin News Mean for Me?",
+		"description": "New recommendations about aspirin, heart health and colon cancer have left many people confused. Here’s what you need to know.",
+		"date": "Oct. 18, 2021"
+	}
+]
